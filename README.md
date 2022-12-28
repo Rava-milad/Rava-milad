@@ -43,13 +43,3 @@ Welcome to the page of a programming geek ( ￣へ￣ )
 
 <a href="http://www.github.com/Rava-milad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rava-milad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-#- 👋 Hi, I’m @Rava-milad
-#- 👀 I’m interested in ...
-#- 🌱 I’m currently learning ...
-#- 💞️ I’m looking to collaborate on ...
-#- 📫 How to reach me ...
-
-#<!---
-#Rava-milad/Rava-milad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-#You can click the Preview link to take a look at your changes.
-#--->
