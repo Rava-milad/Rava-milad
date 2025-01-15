@@ -41,5 +41,5 @@ Welcome to the page of a programming geek ( ￣へ￣ )
 
 <a href="http://www.github.com/Rava-milad"><img src="https://github-readme-stats.vercel.app/api?username=Rava-milad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rava-milad's GitHub stats" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rava-milad)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rava-milad&theme=dark" alt="GitHub Streak" /></a>
 
