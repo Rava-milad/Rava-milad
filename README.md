@@ -39,5 +39,7 @@ Welcome to the page of a programming geek ( ￣へ￣ )
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Rava-milad"><img src="https://github-readme-stats.vercel.app/api?username=Rava-milad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rava-milad's GitHub stats" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rava-milad)](https://git.io/streak-stats)
+<a href="http://www.github.com/Rava-milad"><img src="https://github-readme-stats.vercel.app/api?username=Rava-milad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rava-milad's GitHub stats" /></a><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
