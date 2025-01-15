@@ -41,11 +41,5 @@ Welcome to the page of a programming geek ( ￣へ￣ )
 
 <a href="http://www.github.com/Rava-milad"><img src="https://github-readme-stats.vercel.app/api?username=Rava-milad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rava-milad's GitHub stats" /></a><br/>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rava-milad&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/Rava-milad/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rava-milad&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Rava-milad/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rava-milad&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rava-milad&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
