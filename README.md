@@ -9,7 +9,7 @@ Welcome to the page of a programming geek ( ￣へ￣ )
 * 🌍  I'm based on the internet so i'm always available :)
 * ✉️  You can contact me at [devskil2266@gmail.com](mailto:devskil2266@gmail.com)
 * 🚀  I'm currently working on [personal business](https://kifeston.ir)
-* 🧠  I'm learning nestjs guide
+* 🧠  I'm learning how to work with AI
 * 🤝  I'm open to collaborating on open source
 
 ### Skills
