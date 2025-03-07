@@ -12,7 +12,7 @@ Welcome to the page of a programming geek ( ￣へ￣ )
 * 🧠  I'm learning how to work with AI
 * 🤝  I'm open to collaborating on open source
 
-### Skills
+### Skill
 
 
 <p align="left">
